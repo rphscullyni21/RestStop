@@ -1,6 +1,7 @@
 # RestStop
 
-![RestStop Logo](logo.png)
+<img width="69" alt="rest_stop_logo" src="https://github.com/rphscullyni21/RestStop/assets/134550315/4dce79ee-7be4-4ff7-bc6b-48f262f9cc69">
+
 
 ## Table of Contents
 
