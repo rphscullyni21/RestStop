@@ -1,6 +1,6 @@
 # RestStop
 
-<img width="69" alt="rest_stop_logo" src="https://github.com/rphscullyni21/RestStop/assets/134550315/4dce79ee-7be4-4ff7-bc6b-48f262f9cc69">
+<img width="100" alt="rest_stop_logo" src="https://github.com/rphscullyni21/RestStop/assets/134550315/4dce79ee-7be4-4ff7-bc6b-48f262f9cc69">
 
 
 ## Table of Contents
@@ -45,7 +45,7 @@ Before getting started with RestStop, make sure you have the following installed
 1. Clone the repository (if you haven't already):
 
 ```bash
-git clone https://github.com/yourusername/reststop.git
+git clone https://github.com/rphscullyni21/reststop.git
 ```
 
 2. Navigate to the project directory:
@@ -83,11 +83,8 @@ The application should now be running locally.
 
 ## Contributing
 
-We welcome contributions from the community. If you have any ideas, bug reports, or feature requests, please [open an issue](https://github.com/yourusername/reststop/issues) or submit a pull request.
+We welcome contributions from the community. If you have any ideas, bug reports, or feature requests, please [open an issue](https://github.com/rphscullyni21/reststop/issues) or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as per the license terms.
 
 ---
 
